@@ -1,3 +1,3 @@
 # curiousfreak-demo 
 this is my first Git repository  
-author- joylin 
+author- joylin rolands 
